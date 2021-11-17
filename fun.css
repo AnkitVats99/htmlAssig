@@ -1,0 +1,25 @@
+hr.rounded{
+    border-top: 1px solid #bbb;
+}
+
+#introH{
+    color:black;
+    background:lawngreen
+}
+
+.edu{
+    background: yellow;
+}
+
+#eduH{
+    color:green;
+    background: white;
+}
+
+.sport{
+    background: lawngreen;
+}
+
+#dd{
+    color:red;
+}
