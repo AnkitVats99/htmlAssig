@@ -18,8 +18,25 @@ hr.rounded{
 
 .sport{
     background: lawngreen;
+    color:green;
 }
 
 #dd{
     color:red;
+}
+
+.boxy{
+    padding: 10px;
+    margin: 0px;
+    border=10px;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.box{
+   border: 1px; 
 }
